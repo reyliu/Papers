@@ -1,2 +1,2 @@
-Bo Dai, Stochastic Generative Hashing, ICML, 2017. Nov 19, 2017.
-Miguel A Carreira-Perpinan, Hashing with binary autoenconders, CVPR, 2015. Nov 20, 2017. 
+Bo Dai, Stochastic Generative Hashing, ICML, 2017. proceedings.mlr.press/v70/dai17a/dai17a.pdf. Nov 19, 2017.
+Miguel A Carreira-Perpinan, Hashing with binary autoenconders, CVPR, 2015. https://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Carreira-Perpinan_Hashing_With_Binary_2015_CVPR_paper.pdf. Nov 20, 2017. 
