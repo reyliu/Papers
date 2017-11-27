@@ -1,0 +1,1 @@
+Nov 27, 2017. Zhe Cao, Realtime Multi-Person 2D Pose Estimation using Part Affinity Fields, CVPR 2017.
